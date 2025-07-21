@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brahmaiahtalluri
-- 👀 I’m interested in python 
+- 👀 I’m interested in python and java
 - 🌱 I’m currently learning sql with data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
