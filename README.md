@@ -19,7 +19,7 @@
 
 <img align="right" width="260" src="https://brahmaiahtalluri.github.io/portfolio/img/PICPass.png">
 
-- 🎓 2025 B.Tech graduate (CSE) — QIS College of Engineering and Technology
+- 🎓 2025 B.Tech graduate (CSE - Datascience) — QIS College of Engineering and Technology
 - 💻 I build backend systems with **Java & Spring Boot** and responsive UIs with **React**
 - 🧠 Comfortable across the stack — REST APIs, databases, and modern frontend workflows
 - 📍 Based in **Hyderabad** — open to opportunities as an **Immediate Joiner**
